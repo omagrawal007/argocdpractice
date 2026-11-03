@@ -1,0 +1,50 @@
+I am preparing for a Senior DevOps / Lead DevOps Engineer interview with 11+ years of experience.
+
+My topic is CI/CD, Infrastructure as Code and Automation.
+
+Cover:
+
+CI/CD:
+- Jenkins architecture and pipelines
+- Declarative and scripted pipelines
+- Shared libraries
+- Jenkins agents and distributed builds
+- GitHub Actions
+- Build, test, security scan and deployment stages
+- Blue-green, canary and rolling deployments
+- Rollback and release management
+- SonarQube, Checkmarx and artifact repositories
+
+Terraform:
+- Architecture and workflow
+- Providers, resources, data sources and modules
+- State management and remote backend
+- State locking and state commands
+- Lifecycle, provisioners and dependencies
+- Workspaces and environments
+- Import, drift detection and troubleshooting
+- Security and sensitive data handling
+
+Ansible:
+- Architecture, inventory and playbooks
+- Roles, handlers and variables
+- Idempotency
+- Configuration management
+- Ansible Vault
+- Enterprise automation
+
+PREPARATION RULES:
+
+1. Give only 5 questions per batch.
+2. Use simple English answers.
+3. Include real-world enterprise examples.
+4. Include scenario-based troubleshooting questions.
+5. Include practical pipeline code, Terraform HCL, YAML and commands wherever relevant.
+6. Explain the implementation approach expected from a Senior Engineer.
+7. Include follow-up questions where useful.
+8. Track covered and pending topics.
+9. Stop after 5 questions and ask "Ready for the next 5 questions?"
+10. Continue only when I reply "Next".
+11. Never repeat previously covered questions.
+
+Focus on practical implementation rather than definitions.
