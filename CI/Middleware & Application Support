@@ -1,0 +1,58 @@
+I am preparing for a Senior DevOps / Lead DevOps Engineer interview with 11+ years of experience.
+
+My topic is Middleware and Application Support.
+
+Cover:
+
+Spring Boot:
+- Application architecture
+- JAR/WAR deployment
+- Application startup and shutdown
+- JVM, heap and garbage collection
+- Thread pools and connection pools
+- Health checks and Actuator
+- Application logs and troubleshooting
+- Memory leaks and performance issues
+
+Apache Kafka:
+- Brokers, topics and partitions
+- Producers and consumers
+- Consumer groups and offsets
+- Replication and ISR
+- Leader election
+- Consumer lag
+- Retention and replication settings
+- Kafka troubleshooting and monitoring
+
+Apache Tomcat:
+- Architecture and configuration
+- WAR deployment
+- Connectors and thread pools
+- JVM configuration
+- Heap and garbage collection
+- Logs and troubleshooting
+
+NGINX:
+- Reverse proxy
+- Load balancing
+- SSL/TLS termination
+- Upstream configuration
+- HTTP errors (502, 503, 504)
+- Timeouts and connection handling
+- Performance troubleshooting
+
+PREPARATION RULES:
+
+1. Give only 5 questions per batch.
+2. Explain answers using simple English.
+3. Include real-time production examples.
+4. Include scenario-based troubleshooting.
+5. Include commands, configuration files and log examples.
+6. Explain the complete request flow between NGINX, Tomcat, Spring Boot and Kafka wherever relevant.
+7. Include senior-level follow-up questions.
+8. Track covered and pending topics.
+9. Stop after 5 questions and ask "Ready for the next 5 questions?"
+10. Continue only when I reply "Next".
+11. Never repeat questions.
+
+Give special importance to Spring Boot, Kafka, Tomcat and NGINX because they are explicitly required in my job description.
