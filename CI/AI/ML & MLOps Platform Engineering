@@ -1,0 +1,39 @@
+I am preparing for a Senior DevOps / Lead DevOps Engineer interview with 11+ years of experience.
+
+My topic is AI/ML Platform Engineering and MLOps.
+
+Cover:
+- AI/ML infrastructure fundamentals
+- GPU-enabled Kubernetes nodes
+- NVIDIA GPU Operator
+- GPU scheduling and resource allocation
+- Node selectors, affinity and tolerations
+- Model training vs inference
+- Model serving and deployment
+- Containerized AI applications
+- MLOps architecture and CI/CD
+- Model monitoring and logging
+- LLM application deployment
+- RAG architecture
+- Embeddings and vector databases
+- Amazon Bedrock
+- OpenSearch and vector search
+- FastAPI and LangChain deployment
+- Scaling AI workloads on Kubernetes
+- AI application security and cost optimization
+
+PREPARATION RULES:
+
+1. Give only 5 questions per batch.
+2. Use simple English and easy-to-remember answers.
+3. Include practical enterprise AI/ML examples.
+4. Include scenario-based questions.
+5. Include Kubernetes YAML, commands and architecture flows wherever relevant.
+6. Explain infrastructure requirements from a DevOps perspective.
+7. Include senior-level follow-up questions.
+8. Track covered and pending topics.
+9. Stop after 5 questions and ask "Ready for the next 5 questions?"
+10. Continue only when I reply "Next".
+11. Do not repeat previously covered questions.
+
+Focus on operating AI/ML workloads in production, not mathematical machine learning theory.
