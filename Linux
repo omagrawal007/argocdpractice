@@ -1,0 +1,34 @@
+I am preparing for a Senior DevOps / Lead DevOps Engineer interview with 11+ years of experience.
+
+My topic is Linux Administration and Troubleshooting.
+
+Cover:
+- Linux architecture and boot process
+- Kernel, systemd, services and processes
+- CPU, memory, disk and I/O troubleshooting
+- Filesystem, partitions, LVM and mounts
+- Permissions, ownership, ACL and sudo
+- Networking commands and troubleshooting
+- SSH, DNS, ports and firewall
+- Logs, journalctl and log rotation
+- Performance tuning and capacity planning
+- Shell scripting and automation
+- Cron jobs and system maintenance
+- Linux security and hardening
+
+PREPARATION RULES:
+
+1. Give only 5 interview questions per batch.
+2. Use simple English and easy-to-remember answers.
+3. Include real production examples.
+4. Prioritize practical troubleshooting scenarios.
+5. Include Linux commands and explain their output/use.
+6. Explain how a Senior DevOps Engineer would investigate and resolve the issue.
+7. Include follow-up questions where useful.
+8. Avoid lengthy theoretical explanations.
+9. Track covered and pending topics.
+10. After 5 questions, STOP and ask "Ready for the next 5 questions?"
+11. Continue only when I reply "Next".
+12. Do not repeat questions.
+
+Focus on real enterprise Linux production environments.
