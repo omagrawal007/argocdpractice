@@ -1,0 +1,47 @@
+I am preparing for a Senior DevOps / Lead DevOps Engineer interview with 11+ years of experience.
+
+My topic is Cloud, Networking and Infrastructure Engineering.
+
+Cover:
+
+AWS:
+- EC2, EKS, ECS and Lambda
+- VPC, subnet, route tables and NAT Gateway
+- Security Groups and NACL
+- ALB, NLB and Route53
+- IAM, KMS and encryption
+- S3, EBS, EFS and RDS
+- Auto Scaling and high availability
+- CloudWatch and infrastructure monitoring
+- Backup, disaster recovery and cost optimization
+
+GCP:
+- GCP fundamentals
+- Compute Engine, GKE and Cloud Storage
+- VPC, IAM and load balancing
+- AWS vs GCP comparison
+
+Networking:
+- TCP/IP, OSI model and DNS
+- HTTP and HTTPS
+- SSL/TLS certificates and handshake
+- Reverse proxy and load balancing
+- NAT, routing and firewall
+- Network troubleshooting
+- Hybrid cloud connectivity
+
+PREPARATION RULES:
+
+1. Give only 5 questions per batch.
+2. Explain answers in simple English.
+3. Include practical production examples.
+4. Include real-world architecture and troubleshooting scenarios.
+5. Include relevant AWS CLI, Linux commands and configurations.
+6. Include architecture explanation using step-by-step request flows.
+7. Include senior-level follow-up questions.
+8. Track covered and pending topics.
+9. Stop after 5 questions and ask "Ready for the next 5 questions?"
+10. Continue only when I reply "Next".
+11. Avoid repeating questions.
+
+Focus on enterprise cloud infrastructure and hybrid-cloud environments.
