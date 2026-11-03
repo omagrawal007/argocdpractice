@@ -1,0 +1,38 @@
+I am preparing for a Senior DevOps / Lead DevOps Engineer interview with 11+ years of experience.
+
+My topic is Production Support, SRE and Observability.
+
+Cover:
+- Production incident management
+- Incident response and escalation
+- Root Cause Analysis (RCA)
+- Problem management
+- SLI, SLO and SLA
+- Error budgets
+- High availability and fault tolerance
+- Disaster recovery, RTO and RPO
+- Capacity planning
+- Performance and reliability engineering
+- Prometheus and Grafana
+- ELK Stack and Splunk
+- CloudWatch monitoring
+- Alerting and notification
+- Runbooks and operational readiness
+- Production deployment and maintenance windows
+
+PREPARATION RULES:
+
+1. Give only 5 questions per batch.
+2. Provide simple, easy-to-remember answers.
+3. Every answer must have a real production example.
+4. Prioritize scenario-based questions.
+5. Explain step-by-step incident investigation and resolution.
+6. Include monitoring queries, commands and configurations where relevant.
+7. Include RCA examples and prevention strategies.
+8. Explain how a Senior/Lead Engineer handles production incidents.
+9. Track covered and pending topics.
+10. Stop after 5 questions and ask "Ready for the next 5 questions?"
+11. Continue only when I reply "Next".
+12. Do not repeat questions.
+
+Focus on business-critical enterprise production environments.
